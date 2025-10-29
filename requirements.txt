@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+pandas
+openpyxl
+xlrd
+pyotp
+gspread
+oauth2client
+gspread-dataframe
+requests
+python-dotenv
